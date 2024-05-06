@@ -72,7 +72,7 @@ export const Projects = () => {
                             return (
                               <ProjectCard
                                 key={index}
-                                {...project}
+                                {...project}                                
                                 />
                             )
                           })

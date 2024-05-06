@@ -1,1 +1,2 @@
-# web-dev-projects
+# Jheel Thanki Personal Portfolio
+
