@@ -58,7 +58,7 @@ export const Banner = () => {
                 <span className="tagline">Welcome to my Portfolio</span>
                 <h1>{`Hi! I'm Jheel Thanki`} </h1>
                 <h2><span className="txt-rotate" dataPeriod="1000" data-rotate='[ "Web Developer", "Web Designer", "UI/UX Designer" ]'><span className="wrap">{text}</span></span></h2>
-                  <p>I'm a freshman majoring in Computer Science and Interactive Media at New York University Abu Dhabi. I love all things creative and have a real passion for fields that involve the intersection of technology and design. </p>
+                  <p>I'm a freshman majoring in Computer Science and Interactive Media at New York University Abu Dhabi. I love all things creative and have a real passion for fields that involve the intersection of technology and design.</p>
                   <button onClick={() => window.location.href = '#connect'}>Let’s Connect <ArrowRightCircle size={25} /></button>
               </div>}
             </TrackVisibility>
